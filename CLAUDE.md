@@ -10,7 +10,7 @@ klasörünü yayınlar; **`main`'e push = otomatik yayın**. Derleme adımı yok
 - `public/logo.svg`: geçici logo ve favicon.
 - Alan adı silkgate.app, ad sunucuları Cloudflare'de.
 
-Uygulama deposu: `mahsunse-maker/silkgate` (özel, `~/Desktop/Silkgate`). Uyarı: Pages projesini asla o özel depoya bağlama.
+Uygulama deposu: `mahsunse-maker/silkgate` (özel, `~/Projeler/Silkgate`). Uyarı: Pages projesini asla o özel depoya bağlama.
 Uydurma veri içeren prototip (`index.html` uygulama deposunda) bu siteye konmaz.
 
 Proje listesi: `~/.claude/CLAUDE.md`.
